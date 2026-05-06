@@ -16,7 +16,7 @@ class Splash {
        "Drag on the top slider to adjust pitch.<p>" +
       "Drag the bottom sliders to adjust individual volume.<p>" +
 
-      "<https://editor.p5js.org/raykavalauskas/sketches/OYUM8ZhpO'>view code</a>"
+      "<a href='https://editor.p5js.org/raykavalauskas/sketches/OYUM8ZhpO'>view code</a>"
     );
 
     this.positionElements();
